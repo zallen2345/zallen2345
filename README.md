@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zallen2345
+- 👀 I’m interested in cpp coding and html.
+- 🌱 I’m currently learning cpp.
+- ⚡ Fun fact: I'm a student :D.
